@@ -151,6 +151,8 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 
 
 
+## [更多教程请看这里](https://github.com/githubvpn007/v2rayNvpn#%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+## [更多工具下载看这里](https://github.com/githubvpn007/ProxyTool)
 
 
 
