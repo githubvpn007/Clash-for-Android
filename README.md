@@ -31,7 +31,7 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 开始教程
 ----
 
-**首先我们需要知道：Clash for Android 支持两种导入配置文档的方式 **  
+**首先我们需要知道：Clash for Android 支持两种导入配置文档的方式**  
 
 1.URL （订阅）  
 2.本地导入
