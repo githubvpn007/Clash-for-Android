@@ -47,30 +47,30 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 
 (2)复制好了Clash订阅之后打开Clash for Android应用程序。请点击**配置**  
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/1.jpg) 
+![](https://i.postimg.cc/j2RvcfmK/1.png) 
 
 (3)新弹出的窗口中点击**新配置** .然后选择从URL导入。在对应地方填写**订阅地址**并保存。
 
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/2.jpg) 
+![](https://i.postimg.cc/pTJJmTTS/2.png) 
 
 
 (4)选中 我们刚刚配置的订阅，表示我们将使用这个订阅的代理服务器联网  
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/3.jpg)   
+![](https://i.postimg.cc/RVsG1NR5/3.png)   
 
 
 (5)回到首页 点击开关，即可进行代理。会提示是否同意创建VPN，请点击**允许**。
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/4.jpg)  
+![](https://i.postimg.cc/V6qDXg7D/4.png)  
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/5.jpg)  
+![](https://i.postimg.cc/Bnjpm4Y8/5.png)  
 
 
 
 (6)如果你想切换代理服务器等操作 可以在开启代理后，可以点击中间的代理选项卡，进入策略组面板，在这里可以切换节点。直接点击你想要的节点即可进行切换。
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/6.jpg)  
+![](https://i.postimg.cc/vT8LfsxZ/6.png)  
 
 
 (7)在 "国外流量" 选项卡下显示的节点就是此订阅连接的所有节点，其中 **直接连接** 是默认存在的， 选中它的话就表示 你手机的所有请求不走代理服务器
@@ -87,7 +87,7 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 点击 **配置** 👉 **新配置** 👉 **从文件导入**，然后从本地文件夹选择自己要导入的配置文档。
 某些厂商的ROM可能报如下错误，请选择其他文件管理器导入
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/7.png)
+![](https://i.postimg.cc/dQ951WZ0/7.png)
 
 
 <br/>
@@ -98,8 +98,8 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 
 点击**日志**面板，然后选择**Clash日志捕捉工具**即可抓取日志。默认是关闭日志的，以防内存溢出。
  
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/8.jpg) 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/9.jpg) 
+![](https://i.postimg.cc/BnRgykkm/8.png) 
+![](https://i.postimg.cc/V68FsMYM/9.png) 
 
 
 ## 四。分应用代理  
@@ -108,14 +108,14 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 点击**访问控制模式**可以切换黑白名单。自行理解即可。  
 点击**访问控制应用包列表**即可选择应用。  
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/10.jpg)  
+![](https://i.postimg.cc/vHH36W5t/10.png)  
 
 
 
 
 ## 五。切换代理模式  
 
-![](https://github.com/githubvpn007/Clash-for-Android/blob/main/images/10.jpg) 
+![](https://i.postimg.cc/vHH36W5t/10.png) 
 
 
 ## 六。代理模式(一般默认即可)  
