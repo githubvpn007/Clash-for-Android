@@ -20,7 +20,7 @@ Clash for Android 是安卓系统上的一款 Clash 客户端。
 准备
 ----
 1.准备Android 系统 5.0+ 以上的手机  
-[2.下载安装](https://github.com/Kr328/ClashForAndroid/releases)  
+[2.下载安装](https://web.archive.org/web/20231103070004/https://github.com/Kr328/ClashForAndroid/releases/tag/v2.5.12)  
 3.准备订阅代理服务器，  如果你还没有订阅代理服务器 [请看完这里](https://github.com/githubvpn007/v2rayNvpn)   
 
 
